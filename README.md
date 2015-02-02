@@ -12,6 +12,7 @@ Sollten sich welche verstecken, so wird der Countdown für das Deathmatch aktivi
 In der Nacht gibt es fiese Überraschungen! Auf der Map spawnen Geister, die auf einer Fledermaus reiten.
 
 × Features ×
+
 - Hologram Stats
 - StatsSystem (MySQL Datenbank)
 - Messages in der Config editierbar.
@@ -23,6 +24,7 @@ In der Nacht gibt es fiese Überraschungen! Auf der Map spawnen Geister, die auf
 - Einstellbare Kits
 
 × Einstellung ×
+
 Es gibt nicht viel zu machen ^^.
 Das einzige was man machen muss ist:
 - /DesasterGames setlobby - Setzt die Lobby.
