@@ -1,0 +1,10 @@
+name: DesasterGames
+version: 1.5.1
+author: xQuixi
+main: de.xQuixi.DesasterGames.Main
+commands:
+    desastergames:
+      aliases: dg
+    stats:
+    start:
+    fix:
